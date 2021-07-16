@@ -2,7 +2,6 @@
 using ExemploApiCatalogoJogos.Exceptions;
 using ExemploApiCatalogoJogos.InputModel;
 using ExemploApiCatalogoJogos.Services;
-using ExemploApiCatalogoJogos.ViewModel;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;

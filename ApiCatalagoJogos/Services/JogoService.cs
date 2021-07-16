@@ -3,7 +3,6 @@ using ExemploApiCatalogoJogos.Entities;
 using ExemploApiCatalogoJogos.Exceptions;
 using ExemploApiCatalogoJogos.InputModel;
 using ExemploApiCatalogoJogos.Repositories;
-using ExemploApiCatalogoJogos.ViewModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
