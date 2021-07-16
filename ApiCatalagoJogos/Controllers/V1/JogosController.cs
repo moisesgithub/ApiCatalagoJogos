@@ -1,4 +1,5 @@
-﻿using ExemploApiCatalogoJogos.Exceptions;
+﻿using ApiCatalagoJogos.ViewModel;
+using ExemploApiCatalogoJogos.Exceptions;
 using ExemploApiCatalogoJogos.InputModel;
 using ExemploApiCatalogoJogos.Services;
 using ExemploApiCatalogoJogos.ViewModel;
